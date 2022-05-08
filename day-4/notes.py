@@ -5,3 +5,6 @@
 ['h','e','l','l','o'].pop('e')
 ['h','e','l','l','o'].pop() # 'o'
 
+# random.choice
+random.choice(['h','e','l','l','o'])
+

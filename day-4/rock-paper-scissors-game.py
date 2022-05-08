@@ -1,9 +1,9 @@
 import random
 
 WELCOME_MESSAGE = "Welcome to the 'Rock-Paper-Scissors' game"
-WIN_MESSAGE = "Congratulations, you win"
+WIN_MESSAGE = "Congratulations, you win!"
 TIE_MESSAGE = "It's a tie!"
-INVALID_PICK_MESSAGE = "You introduced and invalid pick"
+INVALID_PICK_MESSAGE = "You introduced an invalid pick"
 LOOSE_MESSAGE = "Sorry, you loose"
 
 PIXEL_ART_LIST = [
