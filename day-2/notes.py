@@ -12,6 +12,6 @@ bool()
 # but "floor" divisions return a trunc value
 4 // 2 # 2
 
-# round() vs .format
+# round() vs .format()
 round(153.6, 2) # 153.6 (FLOAT)
 "{:.2f}".format(153.6) # "153.6" (STRING)
