@@ -40,6 +40,6 @@ while (not end_of_game):
         end_of_game = True
 
 if(total_lives > 0):
-    print('You won! :)')
+    print('You win! :)')
 else:
     print('You lose :(')

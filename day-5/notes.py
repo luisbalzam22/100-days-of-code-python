@@ -11,4 +11,7 @@ min([3,1,2]) # 1
 range(2, 101, 2) # 2,4,6,8,...100
 
 # random.shuffle()
-random.shuffle([1,2,3,4,5,6])
+random.shuffle([1,2,3,4,5,6]) # [5,3,4,6,1,2] / [4,1,5,6,3,2] / [6,1,2,4,3,5] / etc.
+
+# chr() function to convert decimal to ASCII character
+chr(61) 
