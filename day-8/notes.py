@@ -1,11 +1,11 @@
 # math.ceil()
 math.ceil(4.5) # 5
 
-# using the modulus operator as a 'loopback'
+# using the modulus operator to "loop back" from out-of-range indexes
 21 % 5 # 1 (4 "loops" around 5)
 
 # regex module .match()
-re.match() 
+re.match("<Regex>") 
 
 # variable types
 ASCII_RANGES: int = 25
